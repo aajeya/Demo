@@ -1,0 +1,452 @@
+[
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533557542972,
+            "changeTime": 1533557542972,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533557542972,
+            "changeTime": 1533557542972,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533560653565,
+            "changeTime": 1533560653565,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533557542972,
+            "changeTime": 1533557542972,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533557904257,
+            "changeTime": 1533557904257,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1533559258093,
+            "changeTime": 1533559258093,
+            "contentHash": "a15308d46ddd47a2861f66b1573d5e3ad9ccc188",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1533559258108,
+            "changeTime": 1533559258108,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1533559258108,
+            "changeTime": 1533559258108,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1533559258124,
+            "changeTime": 1533559258124,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1533559258124,
+            "changeTime": 1533559258124,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17878,
+            "modifiedTime": 1533559258140,
+            "changeTime": 1533559258140,
+            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4477,
+            "modifiedTime": 1533559258163,
+            "changeTime": 1533559258163,
+            "contentHash": "daf6d679fa2b6ae8d5314e8d22ccbda26c85b4b1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4813,
+            "modifiedTime": 1533559258168,
+            "changeTime": 1533559258168,
+            "contentHash": "b22364f0c3894bb819c607786a3ae0a63d800a37",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4473,
+            "modifiedTime": 1533559258172,
+            "changeTime": 1533559258172,
+            "contentHash": "9a6f04538325a8bbf6de40b58f92e3e39e31bb5b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533559258093,
+            "changeTime": 1533559258093,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533559258093,
+            "changeTime": 1533559258093,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533559258077,
+            "changeTime": 1533559258077,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533559258124,
+            "changeTime": 1533559258124,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533559258172,
+            "changeTime": 1533559258172,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533560277396,
+            "changeTime": 1533560653565,
+            "contentHash": "d9901d2c45a5a07c5e7f0b8a301fe2e88d6df84e"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533560495134,
+            "changeTime": 1533560642905,
+            "contentHash": "c834bda73215ff24eb73d1bd2a53add85e6a0076"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 66,
+            "modifiedTime": 1533560265658,
+            "changeTime": 1533560265658,
+            "contentHash": "2a2d0c56b5318fc4a4fac24ed029e58cce2749f4"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 184,
+            "modifiedTime": 1533560265660,
+            "changeTime": 1533560265660,
+            "contentHash": "ee6a4770dd0ea3ee92d8d070bff5ad8547474541"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest1.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest1.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1533560277395,
+            "changeTime": 1533560277395,
+            "contentHash": "3cc2c401dc0c70b602ee4877219a0e176e39e760"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest1.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\classes\\MyTest1.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1533560277397,
+            "changeTime": 1533560277397,
+            "contentHash": "34ac0de4d5d458b5d2870725b8aa8e154b4f738b"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1533560495133,
+            "changeTime": 1533560495133,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1533560495122,
+            "changeTime": 1533560495122,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1533560495123,
+            "changeTime": 1533560495123,
+            "contentHash": "bb415389a4e97d1849e42afebc102f75f7a82ad5"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1533560495127,
+            "changeTime": 1533560495127,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.design",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1533560495135,
+            "changeTime": 1533560495135,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1533560495131,
+            "changeTime": 1533560495131,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigAppController.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1533560495125,
+            "changeTime": 1533560495125,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigAppHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1533560495126,
+            "changeTime": 1533560495126,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigAppRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\SalesforceDX\\DxDemo\\force-app\\main\\default\\aura\\MyLigApp\\MyLigAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533560495130,
+            "changeTime": 1533560495130,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
